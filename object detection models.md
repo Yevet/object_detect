@@ -94,39 +94,31 @@ https://huggingface.co/mishig/tiny-detr-mobilenetsv3
 
 #### github:
 
-1.[facebookresearch](https://github.com/facebookresearch)/**[detectron2](https://github.com/facebookresearch/detectron2)**
+#### 1.TensorFlow Object Detection API 
 
-2.CBNet: https://github.com/VDIGPKU/CBNet_caffe
-
-3.https://github.com/Tencent/ObjectDetection-OneStageDet
-
-4.https://github.com/yehengchen/Object-Detection-and-Tracking : application of yolov3, R-CNN 
-
-
-
-5.TensorFlow Object Detection API https://github.com/tensorflow/models/tree/master/research/object_detection 
+https://github.com/tensorflow/models/tree/master/research/object_detection 
 
 pretrained on Mobile Net COCO dataset
 
-6.faster_rcnn_resnet50_fpn 
+#### 2.faster_rcnn_resnet50_fpn 
 
 pretrained on the Bosch Dataset
 
 https://github.com/Opletts/Object-Detection-Labeller
 
-7.https://github.com/frankynavar/ObjectDetectionTests
+#### 3.[ObjectDetectionTests](https://github.com/frankynavar/ObjectDetectionTests)
 
+ssd_mobilenet_v1_coco_2017_11_17.tar.gz
 
+faster_rcnn_inception_resnet_v2_atrous_coco_2018_01_28.tar.gz
 
+ssd_inception_v2_coco_2017_11_17.tar.gz
 
+rfcn_resnet101_coco_2018_01_28.tar.gz
 
+#### 4.https://github.com/yehengchen/Object-Detection-and-Tracking 
 
-
-
-
-
-
-
+ application of yolov3, R-CNN 
 
 
 
